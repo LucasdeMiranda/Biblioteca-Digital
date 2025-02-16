@@ -2,6 +2,7 @@
  📖 Descrição
 
 Este repositório contém a implementação de um sistema de gerenciamento de uma biblioteca digital desenvolvido em linguagem C. O projeto permite o cadastro, busca, empréstimo e devolução de livros, utilizando estruturas de dados eficientes para garantir um bom desempenho.
+
 🚀 Funcionalidades
 
     Cadastro de livros: Inserção de livros no sistema com título, autor, ano de publicação, gênero e identificador único.
