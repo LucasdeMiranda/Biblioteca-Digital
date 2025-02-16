@@ -10,7 +10,9 @@ Este repositório contém a implementação de um sistema de gerenciamento de um
     Empréstimo de livros: Registra o empréstimo de um livro para um usuário, tornando-o indisponível até a devolução.
     Devolução de livros: Atualiza o status do livro para disponível após sua devolução.
     Geração de relatórios: Exibe listas de livros cadastrados, disponíveis e emprestados organizados de forma eficiente.
+    Exclusão: Permite a exclusão de um livro especificado pelo título ano de publicação autor e identificador único.
     Leitura de arquivo de entrada: Permite inicializar o sistema com uma base de dados pré-definida de livros.
+   
 
 🛠️ Estruturas de Dados Utilizadas
 
